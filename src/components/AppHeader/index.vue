@@ -1,34 +1,34 @@
 <template>
   <header class="header">
-    <template v-if="curLanguage == 'CH'">
+    <template v-if="curLanguage == 'CHT'">
       <div class="logo">
         <div class="container u-cb">
           <a href="#" class="u-fl">
             <img src="../../assets/img/title.png" width="60px" alt />
-            <span class="title-1">赛悉达亚洲安全集团</span>
+            <span class="title-1">賽悉達亞洲安全集團</span>
           </a>
           <div class="Language u-fr">
-            <a class="active" @click="switchLanguage('CH')">中文</a>
+            <a class="active" @click="switchLanguage('CHT')">中文</a>
             <a @click="switchLanguage('EN')">English</a>
           </div>
         </div>
       </div>
       <nav class="nav">
         <ul class="container menu-box u-cb">
-          <router-link to="/CH/home" tag="li">
-            <span class="menu-item">首页</span>
+          <router-link to="/CHT/home" tag="li">
+            <span class="menu-item">首頁</span>
           </router-link>
 
-          <router-link to="/CH/range" tag="li">
-            <span class="menu-item">服务范畴</span>
+          <router-link to="/CHT/range" tag="li">
+            <span class="menu-item">服務範疇</span>
           </router-link>
 
-          <router-link to="/CH/vision" tag="li">
-            <span class="menu-item">优势与愿景</span>
+          <router-link to="/CHT/vision" tag="li">
+            <span class="menu-item">優勢與願景</span>
           </router-link>
 
-          <router-link to="/CH/aboutUs" tag="li">
-            <span class="menu-item">关于我们</span>
+          <router-link to="/CHT/aboutUs" tag="li">
+            <span class="menu-item">關於我們</span>
           </router-link>
         </ul>
       </nav>
@@ -41,7 +41,7 @@
             <span class="title-1">Xceed Security Asia Group</span>
           </a>
           <div class="Language u-fr">
-            <a @click="switchLanguage('CH')">中文</a>
+            <a @click="switchLanguage('CHT')">中文</a>
             <a class="active" @click="switchLanguage('EN')">English</a>
           </div>
         </div>

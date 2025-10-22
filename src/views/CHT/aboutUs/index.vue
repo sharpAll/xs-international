@@ -1,7 +1,7 @@
 <template>
   <div class="block">
     <el-divider>
-      <div class="divider-title">A trustworthy security partner</div>
+      <div class="divider-title">值得託付的安全夥伴</div>
     </el-divider>
     <div class="center-box">
       <img
@@ -12,21 +12,21 @@
     </div>
     <div class="contact-info" style="text-align:center">
       <p>
-        <span class="key_txt">Our goal: </span>
-        to provide customers with comprehensive risk management and security solutions.
+        <span class="key_txt">我們的目標：</span>
+        致力於為客戶提供全方位的風險管理和安全保障解決方案。
       </p>
       <p>
-        <span class="key_txt">Our role: </span>
-        to be your local security expert and a reliable bridge to the Asian market.
+        <span class="key_txt">我們的角色：</span>
+        是您的本土化安全專家，也是您通往亞洲市場的可靠橋樑。
       </p>
-      <p><span class="key_txt">Please let us help you!</span></p>
+      <p><span class="key_txt">請讓我們幫到您！</span></p>
     </div>
     <div class="center-box">
       <div class="contact-box">
         <div class="box-item" style="height:170px">
           <div class="icon icon-1"></div>
           <div class="info">
-            <div class="info-title">address</div>
+            <div class="info-title">地址</div>
             <p>
               11/F,the Whiteney,183 Wai Yip Street,KwunTong, Hongkong
             </p>
@@ -38,7 +38,7 @@
         <!-- <div class="box-item">
           <div class="icon icon-2"></div>
           <div class="info">
-            <div class="info-title">telephone</div>
+            <div class="info-title">電話</div>
             <p>
               <span style="margin-right:20px">+852 5399 2254</span>
               <span>+852 5393 8508</span>
@@ -49,17 +49,17 @@
         <div class="box-item" style="height:400px">
           <div class="icon icon-3"></div>
           <div class="info">
-            <div class="info-title">Email</div>
+            <div class="info-title">郵箱</div>
             <p>wanida_lim@xceedsecurity.com</p>
-            <p>(Enterprise facilities and asset protection)</p>
+            <p>（企業設施與資產保護）</p>
             <p style="margin-top:10px">christine_lau@xceedsecurity.com</p>
-            <p>(High end events and temporary guards)</p>
+            <p>（高端活動與臨時護衛）</p>
             <p style="margin-top:10px">anna_lim_su_en@xceedsecurity.com.com</p>
-            <p>(Business Investigation and Risk Management)</p>
+            <p>（商業調查與風險管理）</p>
             <p style="margin-top:10px">rosara_tseung@xceedsecurity.com</p>
-            <p>(Technology and Intelligent Security Solutions)</p>
+            <p>（科技與智慧安防解決方案）</p>
             <p style="margin-top:10px">oscar_leong_cheong@xceedsecurity.com</p>
-            <p>(Consulting and Training Services)</p>
+            <p>（諮詢與培訓服務）</p>
           </div>
         </div>
       </div>

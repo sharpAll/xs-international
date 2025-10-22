@@ -34,7 +34,7 @@
         </p>
         <p>
           For cooperation issues, comments, and requests regarding website usage, please send us an email:
-          <span class="key_txt">peter_lee@smartfox-hk.com</span>
+          <span class="key_txt">anna_lim_su_en@xceedsecurity.com.com</span>
         </p>
       </div>
     </div>

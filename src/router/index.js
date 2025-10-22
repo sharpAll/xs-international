@@ -11,6 +11,15 @@ import CHAboutUs from "@/views/CH/aboutUs";
 import CHRange from "@/views/CH/range";
 //使用条款
 import CHVision from "@/views/CH/vision";
+/****************繁体中文 ***********/
+//首页
+import CHTHome from "@/views/CHT/home";
+//关于我们
+import CHTAboutUs from "@/views/CHT/aboutUs";
+//服务范畴
+import CHTRange from "@/views/CHT/range";
+//使用条款
+import CHTVision from "@/views/CHT/vision";
 /****************英文 ***********/
 //首页
 import ENHome from "@/views/EN/home";
@@ -34,7 +43,7 @@ const routes = [
     path: "/",
     name: "layout",
     component: Layout,
-    redirect: "CH/home",
+    redirect: "CHT/home",
     children: [
       {
         path: "CH/home",
@@ -59,6 +68,31 @@ const routes = [
         component: CHVision,
         name: "CH/vision",
         meta: { title: "愿景", parent: "" }
+      },
+      // 繁体中文
+      {
+        path: "CHT/home",
+        component: CHTHome,
+        name: "CHT/home",
+        meta: { title: "首頁", parent: "" }
+      },
+      {
+        path: "CHT/aboutUs",
+        component: CHTAboutUs,
+        name: "CHT/aboutUs",
+        meta: { title: "關於我們", parent: "" }
+      },
+      {
+        path: "CHT/range",
+        component: CHTRange,
+        name: "CHT/range",
+        meta: { title: "服務範疇", parent: "" }
+      },
+      {
+        path: "CHT/vision",
+        component: CHTVision,
+        name: "CHT/vision",
+        meta: { title: "優勢與願景", parent: "" }
       },
       // 英文
       {

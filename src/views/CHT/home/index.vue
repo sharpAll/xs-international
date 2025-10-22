@@ -9,18 +9,18 @@
       </el-carousel-item>
     </el-carousel>
     <el-divider>
-      <span class="divider-title">Guarding the entire territory, empowering with wisdom</span>
+      <span class="divider-title">全境守護，智慧賦能</span>
     </el-divider>
     <div class="divider-info">
       <p>
-        Xceed Security Asia Group is based in Hong Kong and Macau, deeply rooted in Asia,
+        賽悉達亞洲安全集團（Xceed Security Asia Group）立足港澳，深耕亞洲，
       </p>
-      <p>Provide top-notch and compliant comprehensive security solutions for your enterprise and assets.</p>
+      <p>為您的企業與資產提供頂尖、合規的綜合安保解決方案。</p>
       <p>
-        No matter where you are in Asia or what security challenges you face, we are ready.
+        無論您身在亞洲何處，無論您面臨何種安全挑戰，我們都已準備就緒。
       </p>
       <p>
-        Please contact our team to tailor a security solution for you:
+        請聯繫我們的團隊，為您量身定制安全方案：
       </p>
       <p>
         <span class="key_txt"
@@ -32,34 +32,34 @@
     <div class="center-box">
       <div class="bg-box">
         <div class="bg-content">
-          <div class="title">Asian perspective, local experience</div>
+          <div class="title">亞洲視野，本地經驗</div>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Regional Network and Collaboration
+            >區域網絡與協同
           </p>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Cross cultural risk insights
+            >跨文化風險洞察
           </p>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Best Practice Sharing
+            >最佳實踐共亯
           </p>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Integrate into the community and intelligence network
+            >融入社區與情報網絡
           </p>
         </div>
         <div style="width:500px;position:absolute;right:0;top:0">
@@ -71,34 +71,34 @@
     <div class="center-box">
       <div class="bg-box">
         <div class="bg-content right">
-          <div class="title">Technology driven, proactive defense</div>
+          <div class="title">科技驅動，主動防禦</div>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Intelligent monitoring and analysis
+            >智慧監控與分析
           </p>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Data based decision support
+            >數據化決策支援
           </p>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Big data threat warning
+            >大數據威脅預警
           </p>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Regular vulnerability assessment
+            >定期漏洞評估
           </p>
         </div>
         <div style="width:500px;position:absolute;left:0;top:0">
@@ -110,34 +110,34 @@
     <div class="center-box">
       <div class="bg-box">
         <div class="bg-content">
-          <div class="title">Elite team, professional certification</div>
+          <div class="title">精英團隊，專業認證</div>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Strict background check
+            >嚴格背景審查
           </p>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Diversified elite background
+            >多元化的精英背景
           </p>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Compulsory certification for employment
+            >強制性持證上崗
           </p>
           <p>
             <i
               class="el-icon-check"
               style="color:#606ecd;font-size:20px;margin-right:10px"
             ></i
-            >Customized professional training
+            >定制化專業培訓
           </p>
         </div>
         <div style="width:500px;position:absolute;right:0;top:0">
