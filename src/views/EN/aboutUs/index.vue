@@ -54,7 +54,7 @@
             <p>(Enterprise facilities and asset protection)</p>
             <p style="margin-top:10px">christine_lau@xceedsecurity.com</p>
             <p>(High end events and temporary guards)</p>
-            <p style="margin-top:10px">anna_lim_su_en@xceedsecurity.com.com</p>
+            <p style="margin-top:10px">anna_lim_su_en@xceedsecurity.com</p>
             <p>(Business Investigation and Risk Management)</p>
             <p style="margin-top:10px">rosara_tseung@xceedsecurity.com</p>
             <p>(Technology and Intelligent Security Solutions)</p>

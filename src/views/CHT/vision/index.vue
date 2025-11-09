@@ -34,7 +34,7 @@
         </p>
         <p>
           有關網站使用的合作問題、評論及請求，請給我們發郵件：
-          <span class="key_txt">anna_lim_su_en@xceedsecurity.com.com</span>
+          <span class="key_txt">anna_lim_su_en@xceedsecurity.com</span>
         </p>
       </div>
     </div>

@@ -54,7 +54,7 @@
             <p>（企業設施與資產保護）</p>
             <p style="margin-top:10px">christine_lau@xceedsecurity.com</p>
             <p>（高端活動與臨時護衛）</p>
-            <p style="margin-top:10px">anna_lim_su_en@xceedsecurity.com.com</p>
+            <p style="margin-top:10px">anna_lim_su_en@xceedsecurity.com</p>
             <p>（商業調查與風險管理）</p>
             <p style="margin-top:10px">rosara_tseung@xceedsecurity.com</p>
             <p>（科技與智慧安防解決方案）</p>
